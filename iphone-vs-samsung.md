@@ -53,14 +53,15 @@ After seeing the complete and utter beatdown macOS provides over Windows (its no
     - While I appreciate the total coolness and tech behind FaceID, in practical situations, a fingerpring is just simpler and the better choice in the majority of realworld situations
     - I find myself VERY often having to tilt my iPhone sitting on a desk
   - app icons are ludicrously, childishly large with no way to shrink them
-- heavily rounded corners cause issues in games and websites
+- heavily rounded corner bezels cause issues in games and websites
+- no button to hide the keyboard
+  - again -- must try and tap somewhere else on the screen and hope it goes away and you don't activate something on screen you didn't want to
 
 ## Tie
 - Android vs iPhone Keyboard
   - I find the iPhone keyboard to be better than even Gboard at correct predictive text
   - In this case I've found it really "just works"
   - However, on Samsung's keyboard, word correction is simpler since it gives you haptic pulses as you move the cursor through letters and it 'jumps' discretely from one letter to the next so you don't need nearly as much precision to place it at the correct spot in text
-  - no button to hide the keyboard. again -- must try and tap somewhere else on the screen and hope it goes away and you don't activate something on screen you didn't want to
 
 ## iPhone plusses
 ----
