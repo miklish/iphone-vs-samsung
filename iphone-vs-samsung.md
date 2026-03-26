@@ -65,31 +65,31 @@ After seeing the complete and utter beatdown macOS provides over Windows (its no
 
 ## iPhone plusses
 ----
-- consistent smoothness / lack of microstutters and judder
-  - as an fps counting / pixel-peeping geek I appreciate the the extreme level of refinement of iOS. every interaction has been painstackingly thought out in how it starts, moves, and resolves. its that good
 - ui continuity
-  - camera & video
-    - looks better on the iPhone - bar none
-    - really looks cinematic with no "jelly" blurring
+  - consistent smoothness / lack of microstutters and judder
+    - as an fps counting / pixel-peeping geek I appreciate the the extreme level of refinement of iOS. every interaction has been painstackingly thought out in how it starts, moves, and resolves. its that good
   - I'm the one person that loves the Liquid Glass UI lol
-    - Maybe because my first experience with it was iOS 26.2 after they'd fixed many of initial issues
-  - Battery during idle
-    - The iPhone sips battery if you're not doing anything
-      whereas my Samsung still drains battery when idle
-    - overnight it often does not drop even 1%
+    - Maybe because my first experience with it was iOS 26.2 after they'd fixed many of initial issues    
+- camera & video
+  - looks better on the iPhone - bar none
+  - really looks cinematic with no "jelly" blurring
+- Battery during idle
+  - The iPhone sips battery if you're not doing anything
+    whereas my Samsung still drains battery when idle
+  - overnight it often does not drop even 1%
 - TruTone - soft on the eyes
     - going back to the Samsung can be a shock to the retinas with its colder sterile feel versus the appropriately warm iPhone screen colours
-  - PiP - ability to dock PiP video is very useful (though Samsung may have stolen that idea now)
-  - Apps with video or voice features appear like your phone app - giving a very uniform experience for voice across app (like Signal, Whatsapp etc...)
-  - Simple, intuitive, almost zero-setup integration with macBooks
-    - WiFi hotpost for laptop
-    - Passkey sharing <-- huge!
-    - Password sharing
-    - Find My Phone / Mac
-    - data transfer between devices
-    - phone screen mirroring on desktop
-  - Dynamic island is useful as a way to switch from the foreground app to another but easily see the status of background apps (like phone calls for example)
-  - spatial images are very cool
+- PiP - ability to dock PiP video is very useful (though Samsung may have stolen that idea now)
+- Apps with video or voice features appear like your phone app - giving a very uniform experience for voice across app (like Signal, Whatsapp etc...)
+- Simple, intuitive, almost zero-setup integration with macBooks
+  - WiFi hotpost for laptop
+  - Passkey sharing <-- huge!
+  - Password sharing
+  - Find My Phone / Mac
+  - data transfer between devices
+  - phone screen mirroring on desktop
+- Dynamic island is useful as a way to switch from the foreground app to another but easily see the status of background apps (like phone calls for example)
+- spatial images are very cool
 
 ## Summary
 Despite these plusses, the iPhone is still more cumbersome to use on a daily basis in common everyday tasks.
