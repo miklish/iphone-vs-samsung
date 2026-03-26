@@ -53,6 +53,7 @@ After seeing the complete and utter beatdown macOS provides over Windows (its no
     - While I appreciate the total coolness and tech behind FaceID, in practical situations, a fingerpring is just simpler and the better choice in the majority of realworld situations
     - I find myself VERY often having to tilt my iPhone sitting on a desk
   - app icons are ludicrously, childishly large with no way to shrink them
+- heavily rounded corners cause issues in games and websites
 
 ## Tie
 - Android vs iPhone Keyboard
@@ -88,7 +89,6 @@ After seeing the complete and utter beatdown macOS provides over Windows (its no
     - phone screen mirroring on desktop
   - Dynamic island is useful as a way to switch from the foreground app to another but easily see the status of background apps (like phone calls for example)
   - spatial images are very cool
-  - heavily rounded corners cause issues in games and websites
 
 ## Summary
 Despite these plusses, the iPhone is still more cumbersome to use on a daily basis in common everyday tasks.
