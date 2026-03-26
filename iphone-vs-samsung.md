@@ -50,8 +50,8 @@ After seeing the complete and utter beatdown macOS provides over Windows (its no
   - no natural language settings search
     - need to know the precise setting name!
   - FaceID is -- overall -- not as good as through-screen fingerprint unlock
-    - While I appreciate the total coolness and tech behind FaceID, in practical situations, a fingerpring is just simpler and the better choice in the majority of realworld situations
-    - I find myself VERY often having to tilt my iPhone sitting on a desk
+    - While I appreciate the total coolness and tech behind FaceID, in practical situations, a fingerprint is just simpler and the better choice in the majority of realworld situations
+    - I find myself VERY often having to tilt my iPhone towards my face when its sitting on my desk in order to unlock, and often resort to typing out my pin
   - app icons are ludicrously, childishly large with no way to shrink them
 - heavily rounded corner bezels cause issues in games and websites
 - no button to hide the keyboard
